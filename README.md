@@ -5,7 +5,7 @@
 
 I am currently learning Python but also html. Sometimes I will do something in Unity as well.
 
-If you want to talk to me, check out my discord: Dżemi # 0071
+If you want to talk to me, check out my discord: !Dżemi#0071
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dzemi&show_icons=true)
 
