@@ -5,7 +5,7 @@
 
 I am currently learning NodeJS but also Python. Sometimes I will do something in Unity as well.
 
-If you want to talk to me, check out my discord: !Dżemi#2020
+If you want to talk to me, check out my discord: !Dżemi#1337
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dzemi&show_icons=true&include_all_commits=true&theme=dark" alt="n4fTvs's github statss" />
