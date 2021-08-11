@@ -3,7 +3,7 @@
 
 <div style="text-align:center"><img src="https://i.imgur.com/9EYo6Is.png" /></div>
 
-I am currently learning NodeJS but also Python. Sometimes I will do something in Unity as well.
+I am currently learning Html but also NodeJs. Sometimes I will do something in Unity as well.
 
 If you want to talk to me, check out my discord: !Dżemi#1337
 
